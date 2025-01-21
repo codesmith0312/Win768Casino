@@ -1,4 +1,4 @@
-# WIN 768 CASINO Cocos Creator
+# WIN 768 CASINO (Cocos Creator)
 
 ![Screenshot](win768.png)
 ![Screenshot](Untitled3.png)
